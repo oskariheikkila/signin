@@ -1,0 +1,34 @@
+#btnTulosta {
+  height: 30px;
+  margin-left: 800px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+#username {
+  height: 25px;
+  margin-left: 800px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+#password {
+  height: 25px;
+  margin-left: 800px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+h1 {
+  height: 25px;
+  margin-left: 800px;
+  border-radius: 8px;
+  font-size: 22px;
+}
+
+#usernamepassword {
+  height: 25px;
+  margin-left: 780px;
+  border-radius: 8px;
+  font-size: 16px;
+  color: red;
+}
